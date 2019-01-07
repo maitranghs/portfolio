@@ -48,6 +48,7 @@ IO Media is a consultant company in the digital media field. It provides website
 
 
 ### Software Development Skills
+```markdown
 #### Project Management Model
 - Agile/Scrum  
 - Waterfall  
@@ -95,38 +96,35 @@ IO Media is a consultant company in the digital media field. It provides website
 - Excel/VBA  
 - LaTex  
 - Pair Programming  
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Portfolio
+`Online Shop for NormosReddot (The Hour Glass) `  
+_7th September 2018 - 7th October 2018_  
+**Website**: https://nomosreddot.thehourglass.com/
 
-### Jekyll Themes
+**Description**: The Online Shop of NormosReddot is an e-commercial website that introduces and processes orders for 2 lines of limited-edition watches for only the Singaporean market from Reddot.
+The project spanned only 1 month. When I joined the project was reaching the final deadline in 1 month with many functions buggy or un-implemented. But in the last month when I joined we work hard continuously and make it on time for release. 
+I contributed mostly to two pages: product-detail-page and single-checkout-page.
+The project required me to use Vue Storefront PWA (progressive web apps), the solution for online shopping website. 
+I was in charge of fixing some layouts/ functionality bugs as well as adding new features, both on the front-end and backend (with nodeJS API).
+Especially, I programmed the functionality of the single-checkout-page, the most important page of the Online Shop where I had to adapt the default procedure of Vue Storefront (a step-by-step checkout page) into a single page. The single-checkout-page also comprises the Stripe payment function which I was the main contributor.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maitranghs/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Technologies used**: NodeJS, Express, REST API, PostgreSQL, Elasticsearch, Vue, VueX, Vue-router, Promise, Stripe, Intercom; Docker, Debugger for Chrome, Visual Studio Code
 
-### Support or Contact
+**Screenshots**:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)`  
+_January 2018-August 2018_  
+Website: This project, as I knew before I left, is planned to be released around December 2019. Due to NDA, I cannot disclose the screenshots of the website.
+
+Description: I joined into a number of projects related to NEO, but the website developed mainly with Vue.js was the most recent one. This project requires the development of a Web-Based Application. The main functionality is to allow recruiters to consult and sell Gibraltar Life insurance services.
+My role was both a software engineer and a bridge software engineer at the same time where I had to contribute to both the project development (both front-end and back-end) as well as the communication, discussions and meetings with the Japanese customers/developers (I have high proficiency in Japanese language).
+As the applied development process was Agile/ Scrum, we had stand-up meeting every morning to discuss briefly the tasks of the day before, the roadblocks, possible solutions and move on to the tasks of that day. 
+My tasks spanned from front-end UI development to back-end services (reports, summaries, etc.). 
+For the front-end tasks it required me to deal with various frameworks and libraries such as VueJs, VueX, Axios, vue-router, webpack, babel, estlint, etc. It is similarly that the back-end tasks also asked for Java core, Spring, spring boot, REST API, Jasper Report Studio, DB2, DBUnit, JUnit, Genkins. 
+I involved with almost every steps of software development: business requirements acquisition, software design, programming, writing test cases, performing test, making demo and get feedback of PO (project owner).
+
+Technologies used: Java Core, Spring Framework, Spring Boot, REST API, DB2, Jasper Report Studio; Vue, VueX, Vue-router, Axios, webpack, babel (ES5), estlint; Genkins, Selenium, DBUnit, JUnit, Visual Studio Code.
+
+Screenshots: N/A (due to NDA).
