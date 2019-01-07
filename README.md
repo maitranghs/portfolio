@@ -117,6 +117,7 @@ Especially, I programmed the functionality of the single-checkout-page, the most
 
 **Screenshots:**
 ![normosreddotchkpage](/assets/img/normosreddotchkpage.png)
+![normosreddotdetailpage](/assets/img/normosreddotdetailpage.png)
 
 **_NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)_**  
 _January 2018-August 2018_  
