@@ -13,13 +13,15 @@ B.Eng in Computer Science and Engineering
 
 ### Qualifications
 _2018, Property Insurance Recruiters Test, The General Insurance Association of Japan_  
-This is the general test for property insurance recruiters on all aspects of insurance services. Only recruiters who obtain this qualification are allowed to sell or consult customers for insurance services.  
+This is the general test for property insurance recruiters on all aspects of insurance services. Only recruiters who obtain this qualification are allowed to sell or consult customers for insurance services.
+
 _2016, Japanese-Language Proficiency Test(N1-equivalent), Japan Education Exchanges and Services_  
 Standard Japanese-Language Test for Non-Japanese.
 
 ### Interests
 _Professional_  
 Programming, Web Application Development, Schedule Management, Risk Management.  
+
 _Personal_  
 Yoga, Dancing, Music, Coffee.
 
@@ -28,7 +30,7 @@ _Sep - Oct 2018, Full Stack Developer, The Hour Glass, Singapore_
 I joined to the development phase to implement an [e-commercial website](https://nomosreddot.thehourglass.com) for the special limited edition watches named NOMOS Glashütte of The Hour Glass. I worked with Vue Storefront PWA to handle cart, user login, product and customize a single checkout page. I managed a client side which used VueJS and an Express framework server as a place to retrieve data from Magento 2 backend and ElasticSearch server.  
 
 _Apr 2016 - Aug 2018, Japanese Bridge System Engineer, FPT Japan_  
-I worked closely with the customer (Gibraltar Life Insurance, one of the biggest insurance firms in Japan) as a coordinator between Japanese and Vietnamese development team (I was the team leader of a 10 members) in various projects. My main responsibilities were the design, development, maintenance and release management of the projects. In particular, I need to:  
+I worked closely with the customer (Gibraltar Life Insurance, one of the biggest insurance firms in Japan) as a coordinator between Japanese and Vietnamese development team (I was the team leader of a 10 members) in various projects. My main responsibilities were the design, development, maintenance and release management of the projects. In particular, I need to:
 - Document BD(BasicDesign) and DD(DetailDesign) in Japanese
 - Coordinate various meeting sessions(betweenthe2teams) for brainstorming suitable technical solutions
 - Estimate work effort and schedule releases
