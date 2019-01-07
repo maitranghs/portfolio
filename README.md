@@ -50,46 +50,49 @@ IO Media is a consultant company in the digital media field. It provides website
 ### Software Development Skills
 ```markdown
 #### Project Management Model
-- Agile/Scrum  
-- Waterfall  
-
+- Agile/Scrum(2y)
+- Waterfall(5y)
 #### Programming Language
-- Java  
-- PHP  
-- HTML  
-- JavaScript  
-- C++  
-- ColdFusion  
-
+- Java(5y)
+- PHP(3y)
+- HTML(8y)
+- JavaScript(8y)
+- C++(1y)
+- ColdFusion(6m)
 #### Framework & Library
-- Java> Spring, Cubby, RESTful WS  
-- PHP> cakePHP, Symfony1.4, OpenPNE  
-- JavaScript> VueJS, Vue Storefront, Node.js, ReactJS, Wijmo  
+- Java       > Spring(3y)
+             > Cubby(1y)
+             > RESTful WS(4y)
 
+- PHP        > cakePHP(1y)
+             > Symfony1.4(1y)
+             > OpenPNE(1y)
+
+- JavaScript > VueJS(1y)
+             > Vue Storefront(1m)
+             > Node.js(1y)
+             > ReactJS(2m)
+             > Wijmo(1y)
 #### DB
 - DB2  
 - MySQL  
 - Oracle  
 - DynamoDB  
 - MongoDB  
-
 #### Testing
 - JUnit  
 - HSQL  
 - DBUnit  
 - Selenium Test  
-
 #### IDE
 - Eclipse  
 - Visual Studio Code  
 - Notepad++  
-
 #### OS
 - Windows  
 - Mac  
 - Linux  
 - UNIX  
-
 #### Others
 - Jasper Reports  
 - JSON/XML  
