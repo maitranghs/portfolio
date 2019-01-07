@@ -116,7 +116,7 @@ Especially, I programmed the functionality of the single-checkout-page, the most
 **Technologies used:** NodeJS, Express, REST API, PostgreSQL, Elasticsearch, Vue, VueX, Vue-router, Promise, Stripe, Intercom; Docker, Debugger for Chrome, Visual Studio Code
 
 **Screenshots:**
-[Image](/assets/img/normosreddotchkpage.png)
+(/assets/img/normosreddotchkpage.png)
 
 **_NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)_**  
 _January 2018-August 2018_  
