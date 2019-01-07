@@ -1,11 +1,96 @@
 # Welcome to BUI THI MAI TRANG page
 ## (Bridge) Software Engineer
 
-[About me] I am a highly experienced software engineer with more than 8 years specialized in Web Application Development (using Java, JavaScript and PHP and various frameworks). I am familiar and efficient in different stages of software development, i.e. de- sign, develop, test and write manual (even in Japanese). I can work independently or collaboratively and am highly adaptable to new projects and new working environments. My mother tongue is Viet- namese and I can communicate fluently (both oral and written) in Japanese (I spent more than 3 years working in Japan) and English.
+### About me
+I am a highly experienced software engineer with more than 8 years specialized in Web Application Development (using Java, JavaScript and PHP and various frameworks). I am familiar and efficient in different stages of software development, i.e. design, develop, test and write manual (even in Japanese). I can work independently or collaboratively and am highly adaptable to new projects and new working environments. My mother tongue is Vietnamese and I can communicate fluently (both oral and written) in Japanese (I spent more than 3 years working in Japan) and English.
 
-You can use the [editor on GitHub](https://github.com/maitranghs/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Education
+[2015 - 2016, Meros Language School]()
+1-year Business Japanese Course
+[2005 - 2010, HCM University of Technology]()
+B.Eng in Computer Science and Engineering
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Qualifications
+[2018, Property Insurance Recruiters Test, The General Insurance Association of Japan]()
+This is the general test for property insurance recruiters on all aspects of insurance services. Only recruiters who obtain this qualification are allowed to sell or consult customers for insurance services.
+[2016, Japanese-Language Proficiency Test(N1-equivalent), Japan Education Exchanges and Services]()
+Standard Japanese-Language Test for Non-Japanese.
+
+### Interests
+[Professional]()
+Programming, Web Application Development, Schedule Management, Risk Management.
+[Personal]()
+Yoga, Dancing, Music, Coffee.
+
+### Experience
+[Sep - Oct 2018, Full Stack Developer, The Hour Glass, Singapore]()
+I joined to the development phase to implement an [e-commercial website](https://nomosreddot.thehourglass.com) for the special limited edition watches named NOMOS Glashütte of The Hour Glass. I worked with Vue Storefront PWA to handle cart, user login, product and customize a single checkout page. I managed a client side which used VueJS and an Express framework server as a place to retrieve data from Magento 2 backend and ElasticSearch server.
+
+[Apr 2016 - Aug 2018, Japanese Bridge System Engineer, FPT Japan]()
+I worked closely with the customer (Gibraltar Life Insurance, one of the biggest insurance firms in Japan) as a coordinator between Japanese and Vietnamese development team (I was the team leader of a 10 members) in various projects. My main responsibilities were the design, development, maintenance and release management of the projects. In particular, I need to:
+- Document BD(BasicDesign)and DD(DetailDesign)in Japanese.
+- Coordinate various meeting sessions(betweenthe2teams) for brainstorming suitable technical solutions.
+- Estimate work effort and schedule releases.
+- Develop test cases and automation tests.
+- Prototype, implement and supervise team members in development as well as maintenance.
+- Solve various technical problems.
+- Deploy new modules and services.
+
+[Oct 2013 - Jun 2015, Software Engineer, Defide Saigon]()
+Defide Saigon, located in Ho Chi Minh city, is the Vietnamese branch and the offshore development office of Defide Japan (in Fukuoka). My main responsibilities were to read the requirements and software design, collaborate with my team for development, quality assurance and release management of the software.
+
+[Apr 2012 - Oct 2013, Software Engineer, Individual System]()
+I joined in various outsourced projects from Japanese customers as Web Developer. My main responsibilities was to understand requirements and designs as well as implement various modules of the projects.
+
+[Aug 2010 - Apr 2012, Web Developer, IO Media]()
+IO Media is a consultant company in the digital media field. It provides websites, products and services to various e-commerce companies, from small to large ones. My main responsibilities were to develop, deploy and maintain various web projects for the customers.
+
+
+### Software Development Skills
+[Project Management Model]()
+- Agile/Scrum
+- Waterfall
+[Programming Language]()
+- Java
+- PHP
+- HTML
+- JavaScript
+- C++
+- ColdFusion
+[Framework & Library]()
+- Java> Spring, Cubby, RESTful WS
+- PHP> cakePHP, Symfony1.4, OpenPNE
+- JavaScript> VueJS, Vue Storefront, Node.js, ReactJS, Wijmo
+[DB]()
+- DB2
+- MySQL
+- Oracle
+- DynamoDB
+- MongoDB
+[Testing]()
+- JUnit
+- HSQL
+- DBUnit
+- Selenium Test
+[IDE]()
+- Eclipse
+- Visual Studio Code
+- Notepad++
+[OS]()
+- Windows
+- Mac
+- Linux
+- UNIX
+[Others]()
+- Jasper Reports
+- JSON/XML
+- Excel/VBA
+- LaTex
+- Pair Programming
+
+
+
+
 
 ### Markdown
 
