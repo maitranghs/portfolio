@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to BUI THI MAI TRANG page
+## (Bridge) Software Engineer
+
+[About me] I am a highly experienced software engineer with more than 8 years specialized in Web Application Development (using Java, JavaScript and PHP and various frameworks). I am familiar and efficient in different stages of software development, i.e. de- sign, develop, test and write manual (even in Japanese). I can work independently or collaboratively and am highly adaptable to new projects and new working environments. My mother tongue is Viet- namese and I can communicate fluently (both oral and written) in Japanese (I spent more than 3 years working in Japan) and English.
 
 You can use the [editor on GitHub](https://github.com/maitranghs/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
