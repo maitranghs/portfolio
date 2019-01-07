@@ -29,7 +29,7 @@ I joined to the development phase to implement an [e-commercial website](https:/
 
 _Apr 2016 - Aug 2018, Japanese Bridge System Engineer, FPT Japan_  
 I worked closely with the customer (Gibraltar Life Insurance, one of the biggest insurance firms in Japan) as a coordinator between Japanese and Vietnamese development team (I was the team leader of a 10 members) in various projects. My main responsibilities were the design, development, maintenance and release management of the projects. In particular, I need to:  
-- Document BD(BasicDesign)and DD(DetailDesign)in Japanese
+- Document BD(BasicDesign) and DD(DetailDesign) in Japanese
 - Coordinate various meeting sessions(betweenthe2teams) for brainstorming suitable technical solutions
 - Estimate work effort and schedule releases
 - Develop test cases and automation tests
@@ -49,51 +49,49 @@ IO Media is a consultant company in the digital media field. It provides website
 
 ### Software Development Skills
 ```markdown
-#### Project Management Model
+# Project Management Model
 - Agile/Scrum(2y)
 - Waterfall(5y)
-#### Programming Language
+# Programming Language
 - Java(5y)
 - PHP(3y)
 - HTML(8y)
 - JavaScript(8y)
 - C++(1y)
 - ColdFusion(6m)
-#### Framework & Library
+# Framework & Library
 - Java       - Spring(3y)
              - Cubby(1y)
              - RESTful WS(4y)
-
 - PHP        - cakePHP(1y)
              - Symfony1.4(1y)
              - OpenPNE(1y)
-
 - JavaScript - VueJS(1y)
              - Vue Storefront(1m)
              - Node.js(1y)
              - ReactJS(2m)
              - Wijmo(1y)
-#### DB
+# DB
 - DB2(2y)
 - MySQL(7y)
 - Oracle(1y)
 - DynamoDB(6m)
 - MongoDB(2m)
-#### Testing
+# Testing
 - JUnit(5y)
 - HSQL(1y)
 - DBUnit(4y)
 - Selenium Test(2y)
-#### IDE
+# IDE
 - Eclipse(6y)
 - Visual Studio Code(2y)
 - Notepad++(8y)
-#### OS
+# OS
 - Windows(10y)
 - Mac(3y)
 - Linux(2y)
 - UNIX(2y)
-#### Others
+# Others
 - Jasper Reports(2y)
 - JSON/XML(4y)
 - Excel/VBA(6m)
@@ -104,30 +102,30 @@ IO Media is a consultant company in the digital media field. It provides website
 ### Portfolio
 **_Online Shop for NormosReddot (The Hour Glass)_**  
 _7th September 2018 - 7th October 2018_  
-**Website**: https://nomosreddot.thehourglass.com/
+**Website:** https://nomosreddot.thehourglass.com/
 
-**Description**: The Online Shop of NormosReddot is an e-commercial website that introduces and processes orders for 2 lines of limited-edition watches for only the Singaporean market from Reddot.
+**Description:** The Online Shop of NormosReddot is an e-commercial website that introduces and processes orders for 2 lines of limited-edition watches for only the Singaporean market from Reddot.
 The project spanned only 1 month. When I joined the project was reaching the final deadline in 1 month with many functions buggy or un-implemented. But in the last month when I joined we work hard continuously and make it on time for release. 
 I contributed mostly to two pages: product-detail-page and single-checkout-page.
 The project required me to use Vue Storefront PWA (progressive web apps), the solution for online shopping website. 
 I was in charge of fixing some layouts/ functionality bugs as well as adding new features, both on the front-end and backend (with nodeJS API).
 Especially, I programmed the functionality of the single-checkout-page, the most important page of the Online Shop where I had to adapt the default procedure of Vue Storefront (a step-by-step checkout page) into a single page. The single-checkout-page also comprises the Stripe payment function which I was the main contributor.
 
-**Technologies used**: NodeJS, Express, REST API, PostgreSQL, Elasticsearch, Vue, VueX, Vue-router, Promise, Stripe, Intercom; Docker, Debugger for Chrome, Visual Studio Code
+**Technologies used:** NodeJS, Express, REST API, PostgreSQL, Elasticsearch, Vue, VueX, Vue-router, Promise, Stripe, Intercom; Docker, Debugger for Chrome, Visual Studio Code
 
-**Screenshots**:
+**Screenshots:**
 
 **_NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)_**  
 _January 2018-August 2018_  
-Website: This project, as I knew before I left, is planned to be released around December 2019. Due to NDA, I cannot disclose the screenshots of the website.
+**Website:** This project, as I knew before I left, is planned to be released around December 2019. Due to NDA, I cannot disclose the screenshots of the website.
 
-Description: I joined into a number of projects related to NEO, but the website developed mainly with Vue.js was the most recent one. This project requires the development of a Web-Based Application. The main functionality is to allow recruiters to consult and sell Gibraltar Life insurance services.
+**Description:** I joined into a number of projects related to NEO, but the website developed mainly with Vue.js was the most recent one. This project requires the development of a Web-Based Application. The main functionality is to allow recruiters to consult and sell Gibraltar Life insurance services.
 My role was both a software engineer and a bridge software engineer at the same time where I had to contribute to both the project development (both front-end and back-end) as well as the communication, discussions and meetings with the Japanese customers/developers (I have high proficiency in Japanese language).
 As the applied development process was Agile/ Scrum, we had stand-up meeting every morning to discuss briefly the tasks of the day before, the roadblocks, possible solutions and move on to the tasks of that day. 
 My tasks spanned from front-end UI development to back-end services (reports, summaries, etc.). 
 For the front-end tasks it required me to deal with various frameworks and libraries such as VueJs, VueX, Axios, vue-router, webpack, babel, estlint, etc. It is similarly that the back-end tasks also asked for Java core, Spring, spring boot, REST API, Jasper Report Studio, DB2, DBUnit, JUnit, Genkins. 
 I involved with almost every steps of software development: business requirements acquisition, software design, programming, writing test cases, performing test, making demo and get feedback of PO (project owner).
 
-Technologies used: Java Core, Spring Framework, Spring Boot, REST API, DB2, Jasper Report Studio; Vue, VueX, Vue-router, Axios, webpack, babel (ES5), estlint; Genkins, Selenium, DBUnit, JUnit, Visual Studio Code.
+**Technologies used:** Java Core, Spring Framework, Spring Boot, REST API, DB2, Jasper Report Studio; Vue, VueX, Vue-router, Axios, webpack, babel (ES5), estlint; Genkins, Selenium, DBUnit, JUnit, Visual Studio Code.
 
-Screenshots: N/A (due to NDA).
+**Screenshots:** N/A (due to NDA).
