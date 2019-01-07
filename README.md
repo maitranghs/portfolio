@@ -115,7 +115,7 @@ Especially, I programmed the functionality of the single-checkout-page, the most
 
 **Technologies used:** NodeJS, Express, REST API, PostgreSQL, Elasticsearch, Vue, VueX, Vue-router, Promise, Stripe, Intercom; Docker, Debugger for Chrome, Visual Studio Code
 
-**Screenshots:**
+**Screenshots:**  
 _Detail Page_
 ![normosreddotdetailpage](/assets/img/normosreddotdetailpage.png)
 
@@ -123,7 +123,7 @@ _Single Checkout Page_
 ![normosreddotchkpage](/assets/img/normosreddotchkpage.png)
 
 **_NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)_**  
-_January 2018-August 2018_  
+_January 2018 - August 2018_  
 **Website:** This project, as I knew before I left, is planned to be released around December 2019. Due to NDA, I cannot disclose the screenshots of the website.
 
 **Description:** I joined into a number of projects related to NEO, but the website developed mainly with Vue.js was the most recent one. This project requires the development of a Web-Based Application. The main functionality is to allow recruiters to consult and sell Gibraltar Life insurance services.
