@@ -19,11 +19,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p>Email: {{ site.email }}</p>
-        <p>Skype ID: {{ site.skypeId }}</p>
-        <p>Cell phone: {{ site.cellPhone }}</p>
-        <p>Address: {{ site.address }}</p>
+        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
+        <p><b>Email:</b> {{ site.email }}</p>
+        <p><b> ID:</b> {{ site.skypeId }}</p>
+        <p><b>Cell phone:</b> {{ site.cellPhone }}</p>
+        <p><b>Address:</b> {{ site.address }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
