@@ -104,9 +104,9 @@ IO Media is a consultant company in the digital media field. It provides website
 ### Portfolio
 **_Online Shop for NormosReddot (The Hour Glass)_**  
 _7th September 2018 - 7th October 2018_  
-**Website:** https://nomosreddot.thehourglass.com/
+**Website:** [https://nomosreddot.thehourglass.com/](https://nomosreddot.thehourglass.com/)
 
-**Description:** The Online Shop of [NormosReddot](https://nomosreddot.thehourglass.com/) is an e-commercial website that introduces and processes orders for 2 lines of limited-edition watches for only the Singaporean market from Reddot.
+**Description:** The Online Shop of NormosReddot is an e-commercial website that introduces and processes orders for 2 lines of limited-edition watches for only the Singaporean market from Reddot.
 The project spanned only 1 month. When I joined the project was reaching the final deadline in 1 month with many functions buggy or un-implemented. But in the last month when I joined we work hard continuously and make it on time for release. 
 I contributed mostly to two pages: product-detail-page and single-checkout-page.
 The project required me to use Vue Storefront PWA (progressive web apps), the solution for online shopping website. 
