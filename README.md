@@ -60,49 +60,49 @@ IO Media is a consultant company in the digital media field. It provides website
 - C++(1y)
 - ColdFusion(6m)
 #### Framework & Library
-- Java       > Spring(3y)
-             > Cubby(1y)
-             > RESTful WS(4y)
+- Java       - Spring(3y)
+             - Cubby(1y)
+             - RESTful WS(4y)
 
-- PHP        > cakePHP(1y)
-             > Symfony1.4(1y)
-             > OpenPNE(1y)
+- PHP        - cakePHP(1y)
+             - Symfony1.4(1y)
+             - OpenPNE(1y)
 
-- JavaScript > VueJS(1y)
-             > Vue Storefront(1m)
-             > Node.js(1y)
-             > ReactJS(2m)
-             > Wijmo(1y)
+- JavaScript - VueJS(1y)
+             - Vue Storefront(1m)
+             - Node.js(1y)
+             - ReactJS(2m)
+             - Wijmo(1y)
 #### DB
-- DB2  
-- MySQL  
-- Oracle  
-- DynamoDB  
-- MongoDB  
+- DB2(2y)
+- MySQL(7y)
+- Oracle(1y)
+- DynamoDB(6m)
+- MongoDB(2m)
 #### Testing
-- JUnit  
-- HSQL  
-- DBUnit  
-- Selenium Test  
+- JUnit(5y)
+- HSQL(1y)
+- DBUnit(4y)
+- Selenium Test(2y)
 #### IDE
-- Eclipse  
-- Visual Studio Code  
-- Notepad++  
+- Eclipse(6y)
+- Visual Studio Code(2y)
+- Notepad++(8y)
 #### OS
-- Windows  
-- Mac  
-- Linux  
-- UNIX  
+- Windows(10y)
+- Mac(3y)
+- Linux(2y)
+- UNIX(2y)
 #### Others
-- Jasper Reports  
-- JSON/XML  
-- Excel/VBA  
-- LaTex  
-- Pair Programming  
+- Jasper Reports(2y)
+- JSON/XML(4y)
+- Excel/VBA(6m)
+- LaTex(2m)
+- Pair Programming(2y)
 ```
 
 ### Portfolio
-`Online Shop for NormosReddot (The Hour Glass) `  
+**_Online Shop for NormosReddot (The Hour Glass)_**  
 _7th September 2018 - 7th October 2018_  
 **Website**: https://nomosreddot.thehourglass.com/
 
@@ -117,7 +117,7 @@ Especially, I programmed the functionality of the single-checkout-page, the most
 
 **Screenshots**:
 
-`NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)`  
+**_NEO (Gibraltar Life Insurance, one of the biggest insurance firms in Japan)_**  
 _January 2018-August 2018_  
 Website: This project, as I knew before I left, is planned to be released around December 2019. Due to NDA, I cannot disclose the screenshots of the website.
 
