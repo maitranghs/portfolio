@@ -101,6 +101,7 @@ IO Media is a consultant company in the digital media field. It provides website
 - Excel/VBA(6m)
 - LaTex(2m)
 - Pair Programming(2y)
+- Git(3y), SVN(5y)
 ```
 
 ### Portfolio
