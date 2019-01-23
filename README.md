@@ -75,12 +75,14 @@ IO Media is a consultant company in the digital media field. It provides website
              - Node.js(1y)
              - ReactJS(2m)
              - Wijmo(1y)
+             - Express(6m)
+             - Socket.io(1d)
 # DB
 - DB2(2y)
 - MySQL(7y)
 - Oracle(1y)
 - DynamoDB(6m)
-- MongoDB(2m)
+- MongoDB(3m)
 # Testing
 - JUnit(5y)
 - HSQL(1y)
