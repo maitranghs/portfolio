@@ -20,7 +20,7 @@ Especially, I programmed the functionality of the single-checkout-page, the most
 
 **Screenshots:**  
 _Detail Page_
-![normosreddotdetailpage](/assets/img/normosreddotdetailpage.png)
+![normosreddotdetailpage]({{ "/assets/img/normosreddotdetailpage.png" | relative_url }})
 
 _Single Checkout Page_
-![normosreddotchkpage](/assets/img/normosreddotchkpage.png)
+![normosreddotchkpage]({{ "/assets/img/normosreddotchkpage.png" | relative_url }})
