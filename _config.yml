@@ -14,18 +14,22 @@ cellPhone: (+39) 351-961-0880
 address: Trento, Italy
 customeSite: [
   { 'name': 'index',
-    'text': 'Brief Information'
+    'text': 'Brief Information',
+    'page': '/index.html'
   },
   {
     'name': 'experience',
-    'text': 'Experience'
+    'text': 'Experience',
+    'page': '/experience.html'
   },
   {
     'name': 'portforlio',
-    'text': 'Portforlio'
+    'text': 'Portforlio',
+    'page': '/portforlio.html'
   },
   {
     'name': 'contact',
-    'text': 'Contact'
+    'text': 'Contact',
+    'page': '/contact.html'
   }
-  ]
+]
