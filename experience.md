@@ -14,5 +14,5 @@
 - Highly responsible and reliable
 
 ### Related Links
-> [_Work Experience_](/experience/2019/01/27/workexperience.html)  
-> [_Software Development Skills_](/experience/2019/01/27/skills.html)  
+> [_Work Experience_]({{ "/experience/2019/01/27/workexperience.html" | relative_url }})  
+> [_Software Development Skills_]({{ "/experience/2019/01/27/skills.html" | relative_url }})  
