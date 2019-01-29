@@ -14,32 +14,31 @@
   <body>
     <div class="wrapper">
       <header>
-        <!--<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>-->
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p><b>{{ site.description | default: site.github.project_tagline }}</b></p>
-        <p><b>Email:</b> {{ site.email }}</p>
-        <p><b>Skype ID:</b> {{ site.skypeId }}</p>
-        <p><b>Cell phone:</b> {{ site.cellPhone }}</p>
-        <p><b>Address:</b> {{ site.address }}</p>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
+        {% unless page.url contains "todo" %}
+        <img src="{{ site.logo }}" alt="avatar"/>
+        {% endunless %}
+        <div class="left-infor">
+          <h2>{{ site.fullname }}</h2>
+          <h4>{{ site.jobTitle }}</h4>
+        </div>
+        {% for custom in site.customeSite %}
+          {% if page.url contains custom.name or custom.name == "index" and page.url == "/" %}
+            <a href="/{{ custom.name }}.html"><div class="left-menu active">{{ custom.text }}</div></a>
+            {% for category in site.categories %}
+              {% if category[0] == custom.name %}
+                {% for post in category[1] %}
+                  {% if page.url contains post.key %}
+                  <a href="{{ post.url }}"><div class="left-menu-small small-active"><div class="arrow-right"></div>{{ post.title }}</div></a>
+                  {% else %}
+                  <a href="{{ post.url }}"><div class="left-menu-small"><div class="arrow-right"></div>{{ post.title }}</div></a>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+          {% else %}
+            <a href="/{{ custom.name }}.html"><div class="left-menu">{{ custom.text }}</div></a>
+          {% endif %}
+        {% endfor %}
       </header>
       <section>
 
@@ -47,10 +46,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>{{ site.nickname }} | <a href="{{ site.github.owner_url }}">{{ site.githubId }}</a> | {{ site.email }}</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

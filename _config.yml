@@ -1,10 +1,31 @@
 # Theme's properties
 theme: jekyll-theme-minimal
-title: MAITRANGHS's Curriculum Vitae & Portfolio
+title: MAITRANGHS's page
 description: Curriculum Vitae & Portfolio
 logo: /assets/img/photo.png
 # Customized personal information
+fullname: BUI THI MAI TRANG
+nickname: Shiro
 email: maitrang88bk@gmail.com
+jobTitle: (Bridge) Software Engineer
 skypeId: maitranghs
+githubId: maitranghs
 cellPhone: (+39) 351-961-0880
 address: Trento, Italy
+customeSite: [
+  { 'name': 'index',
+    'text': 'Brief Information'
+  },
+  {
+    'name': 'experience',
+    'text': 'Experience'
+  },
+  {
+    'name': 'portforlio',
+    'text': 'Portforlio'
+  },
+  {
+    'name': 'contact',
+    'text': 'Contact'
+  }
+  ]
