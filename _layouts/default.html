@@ -23,20 +23,20 @@
         </div>
         {% for custom in site.customeSite %}
           {% if page.url contains custom.name or custom.name == "index" and page.url == "/" %}
-            <a href="{{ "/" | custom.name | ".html" }}"><div class="left-menu active">{{ custom.text }}</div></a>
+            <a href="/{{ custom.name | relative_url }}.html"><div class="left-menu active">{{ custom.text }}</div></a>
             {% for category in site.categories %}
               {% if category[0] == custom.name %}
                 {% for post in category[1] %}
                   {% if page.url contains post.key %}
-                  <a href="{{ post.url }}"><div class="left-menu-small small-active"><div class="arrow-right"></div>{{ post.title }}</div></a>
+                  <a href="{{ post.url | relative_url }}"><div class="left-menu-small small-active"><div class="arrow-right"></div>{{ post.title }}</div></a>
                   {% else %}
-                  <a href="{{ post.url }}"><div class="left-menu-small"><div class="arrow-right"></div>{{ post.title }}</div></a>
+                  <a href="{{ post.url | relative_url }}"><div class="left-menu-small"><div class="arrow-right"></div>{{ post.title }}</div></a>
                   {% endif %}
                 {% endfor %}
               {% endif %}
             {% endfor %}
           {% else %}
-            <a href="{{ "/" | custom.name | ".html" }}"><div class="left-menu">{{ custom.text }}</div></a>
+            <a href="/{{ custom.name | relative_url }}.html"><div class="left-menu">{{ custom.text }}</div></a>
           {% endif %}
         {% endfor %}
       </header>
