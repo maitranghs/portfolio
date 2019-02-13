@@ -29,6 +29,11 @@ customeSite: [
     'page': '/portforlio.html'
   },
   {
+    'name': 'blogs',
+    'text': 'Blog',
+    'page': '/blogs.html'
+  },
+  {
     'name': 'contact',
     'text': 'Contact',
     'page': '/contact.html'

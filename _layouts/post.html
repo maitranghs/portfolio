@@ -2,7 +2,7 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-{% if page.author %}
+{% if page.isShowDate %}
   <small>{{ page.date | date: "%-d %B %Y" }}</small>
 {% endif %}
 {% if page.author or site.author %}

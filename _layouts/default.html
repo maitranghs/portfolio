@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        {% unless page.url contains "todo" %}
+        {% unless page.url contains "blogs" or page.url contains "portforlio" or page.url contains "experience" %}
         <img src="{{ site.logo  | relative_url}}" alt="avatar"/>
         {% endunless %}
         <div class="left-infor">
