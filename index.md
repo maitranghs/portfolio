@@ -9,6 +9,12 @@ _2005 - 2010, HCM University of Technology_
 B.Eng in Computer Science and Engineering
 
 ## Qualifications
+_2019, Complete Python Bootcamp: Go from zero to hero in Python 3 of Jose Marcial Portilla, Udemy_  
+To learn Python from its basic concepts then to create applications and games.
+
+_2019, Node JS: Advanced Concepts of Stephen Grider, Udemy_  
+The course provides knowledge of the main concepts of Node JS and needed skills to become a top Node JS engineer.
+
 _2018, Property Insurance Recruiters Test, The General Insurance Association of Japan_  
 This is the general test for property insurance recruiters on all aspects of insurance services. Only recruiters who obtain this qualification are allowed to sell or consult customers for insurance services.
 

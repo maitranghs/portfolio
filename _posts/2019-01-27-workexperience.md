@@ -6,6 +6,8 @@ tags: [history, experience]
 key: workexperience
 ---
 
+_Oct 2018 - now, Freelance Developer, Self-Employment_
+
 _Sep - Oct 2018, Full Stack Developer, The Hour Glass, Singapore_  
 I joined to the development phase to implement an [e-commercial website](https://nomosreddot.thehourglass.com) for the special limited edition watches named NOMOS Glashütte of The Hour Glass. I worked with Vue Storefront PWA to handle cart, user login, product and customize a single checkout page. I managed a client side which used VueJS and an Express framework server as a place to retrieve data from Magento 2 backend and ElasticSearch server.  
 
